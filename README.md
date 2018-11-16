@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
+Bazuje na filmie:
+https://youtu.be/othhfZ0mGjU
+
+-> Aby odpalić (trza mieć nodejs, npm, angular cli, http-server zainstalowany z pomocą npm):
+ng build --prod
+cd dist/menelaos-front
+http-server
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
