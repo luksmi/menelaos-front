@@ -6,8 +6,11 @@ Bazuje na filmie:
 https://youtu.be/othhfZ0mGjU
 
 -> Aby odpalić (trza mieć nodejs, npm, angular cli, http-server zainstalowany z pomocą npm):
+
 ng build --prod
+
 cd dist/menelaos-front
+
 http-server
 
 ## Development server
